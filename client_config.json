@@ -25,8 +25,8 @@
     "settings": {
       "vnext": [
       {
-         "address": "xxxx.herokuapp.com", //填写自己的heroku应用名称
-         "port": 443, 
+         "address": "dzxv2ray2.herokuapp.com", //填写自己的heroku应用名称
+         "port": 80, 
          "users": [
          {
            "id": "4890bd47-5180-4b1c-9a5d-3ef686543112", //如果自定义了UUID，请填写自己的
